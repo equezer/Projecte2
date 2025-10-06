@@ -6,4 +6,4 @@ Aqui veuras les diferents tasques del projecte:
 
 
 
-##Detalls importants
+## Detalls importants
