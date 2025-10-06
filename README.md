@@ -1,2 +1,3 @@
 # Projecte2
-Aqui veuras les diferents tasques del projecte:
+
+##Aqui veuras les diferents tasques del projecte:
