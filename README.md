@@ -2,7 +2,7 @@
 
 Aqui veuras les diferents tasques del projecte:
 
-- [Tasca2](Tasca2)
+- [Tasca02](Tasca02)
 - [Tasca3](Tasca3)
 
  
