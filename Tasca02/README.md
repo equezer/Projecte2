@@ -2,7 +2,7 @@ L’empresa TecnoGestió S.L., dedicada a la gestió documental i assessorament 
 
 S’han posat en contacte amb l’empresa on esteu fent l’estada i el vostre responsable us ha encarregat que en feu l’estudi i tria del SAI.
 
-![
+![jygufgutfufu](img/SAI.png)
 
 ## Tasques a realitzar
 
