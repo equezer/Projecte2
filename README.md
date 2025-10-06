@@ -2,7 +2,7 @@
 
 Aqui veuras les diferents tasques del projecte:
 
-``[P02](P02)
+- [P02](P02)
 
  
 
