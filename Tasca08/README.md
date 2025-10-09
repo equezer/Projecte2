@@ -16,4 +16,4 @@
 - Dissenyar una **estratègia de domini** (TLD, marca, SEO bàsic) i un **pla de DNS coherent**.  
 
 
-[a l'arxiu solucio](solucio.md) trobaras la solució a la tasca
+a l'arxiu: [solucio.md](solucio.md) trobaras la solució a la tasca
