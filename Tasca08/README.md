@@ -21,14 +21,12 @@
 - 3 bústies de correu corporatiu  
 - Bon rendiment en caps de setmana i mesos d’estiu  
 
----
-
 ### 2. Anàlisi de dominis
 
 **Criteris per al naming:**
 - Nom curt i fàcil de recordar  
 - Identitat local (Mataró / Catalunya)  
-- Preferència per extensió `.cat` o `.es`  
+- Preferència per extensió   
 
 **Alternatives de dominis disponibles:**
 
@@ -38,10 +36,6 @@
 | cafemarina.es | Sí | Bona alternativa per SEO a nivell estatal |
 | cafemarinamataro.cat | Sí | Opció de reforç local |
 
-**Recomanació final:**  
-`cafemarina.cat` – reflecteix identitat catalana, curt i fàcil de recordar.
-
----
 
 ### 3. Comparativa de hostings
 
@@ -52,7 +46,6 @@
 | **Arsys** | Hosting + correus + SSL, bon uptime | Empresa espanyola, suport sòlid | Preu més alt al renovar | 6 – 12 € |
 | **ANW** | Hosting professional, SSL, correus inclosos | Bona relació qualitat/preu, domini gratis | Recursos limitats en pics alts | 7 – 9 € |
 
----
 
 ### 4. Checklist de requeriments complerts
 - SSL inclòs  
@@ -60,7 +53,6 @@
 - Correu corporatiu (3 bústies)  
 - CDN integrat (opcional, es pot afegir més endavant si creix el trànsit)
 
----
 
 ### 5. Recomanació final
 - **Hosting escollit:** BlumHost – Pla Professional  
@@ -69,23 +61,19 @@
 **Justificació de la decisió:**  
 BlumHost ofereix una infraestructura amb PHP/MySQL, SSL gratuït, còpies de seguretat automàtiques i correu corporatiu, complint tots els requisits tècnics del projecte.  
 El seu servidor a Espanya garanteix bon rendiment per a un negoci local com Cafè Marina, especialment en caps de setmana i mesos d’estiu.  
-A més, el domini `.cat` reforça la identitat catalana i local de la marca, mantenint un nom curt, fàcil de recordar i coherent amb el sector de restauració de Mataró.
-
----
 
 ### 6. Conclusions
 **Criteris més decisius:**
 - Compliment dels requisits tècnics (PHP/MySQL, SSL, correu corporatiu)  
 - Fiabilitat i rendiment per a pics de trànsit locals  
 - Suport tècnic proper i en llengua local  
-- Identitat de marca amb extensió `.cat`  
+- Identitat de marca amb extensió  
 
 **Per què aquesta proposta és la millor opció:**  
 Aquesta proposta equilibra cost, seguretat, rendiment i identitat local.  
 El pla de BlumHost cobreix les necessitats actuals del negoci i permet créixer en el futur sense canvis complexos.  
 En conjunt, és una solució eficient, econòmica i alineada amb els objectius del Cafè Marina: visibilitat online, gestió senzilla de reserves i presència digital coherent amb la seva identitat catalana.
 
----
 
 ## Proposta de domini i hosting per al client Mercat Local Online
 
@@ -105,14 +93,11 @@ En conjunt, és una solució eficient, econòmica i alineada amb els objectius d
 - RGPD complert i SSL actiu  
 - 25 bústies de correu per als venedors  
 
----
-
 ### 2. Anàlisi de dominis
 
 **Criteris per al naming:**
 - Nom proper i comunitari  
 - Orientat a comerç local  
-- Preferència `.cat` o `.shop` per reforçar el concepte de mercat  
 
 **Alternatives de dominis disponibles:**
 
@@ -123,9 +108,7 @@ En conjunt, és una solució eficient, econòmica i alineada amb els objectius d
 | mercatlocalonline.cat | Sí | Descriptiu, fàcil d’entendre |
 
 **Recomanació final:**  
-`mercatlocal.cat` — curt, directe i alineat amb la identitat local.
-
----
+— curt, directe i alineat amb la identitat local.
 
 ### 3. Comparativa de hostings
 
@@ -136,7 +119,6 @@ En conjunt, és una solució eficient, econòmica i alineada amb els objectius d
 | **Hetzner Cloud** | Servidors Cloud europeus, escalables, 4 vCPU / 16 GB RAM, SSD NVMe | Molt bona relació preu/rendiment, gestió tècnica avançada | Cal experiència tècnica per configurar | 30 – 45 € |
 | **Raiola Networks Cloud VPS** | Hosting espanyol, optimitzat per WordPress/WooCommerce, SSL i correu | Suport local, escalabilitat, RGPD i còpies automàtiques | Cost lleugerament superior en plans alts | 40 – 70 € |
 
----
 
 ### 4. Checklist de requeriments complerts
 - SSL inclòs  
@@ -145,7 +127,6 @@ En conjunt, és una solució eficient, econòmica i alineada amb els objectius d
 - Escalabilitat Cloud/VPS  
 - RGPD complert  
 
----
 
 ### 5. Recomanació final
 - **Hosting escollit:** Raiola Networks – VPS Cloud WooCommerce  
@@ -154,16 +135,13 @@ En conjunt, és una solució eficient, econòmica i alineada amb els objectius d
 **Justificació de la decisió:**  
 Raiola Networks ofereix una infraestructura VPS escalable i optimitzada per WooCommerce, amb suport tècnic en català/castellà, SSL, còpies de seguretat i RGPD complert.  
 És ideal per a un projecte de marketplace multi-botiga, ja que combina rendiment, seguretat i facilitat de gestió per a un equip amb diversos venedors.  
-El domini `mercatlocal.cat` reforça la identitat de proximitat i comunitat del projecte.
 
----
 
 ### 6. Conclusions
 **Criteris més decisius:**
 - Rendiment i escalabilitat (mínim 4 vCores, 10 GB RAM)  
 - Compliment legal i seguretat (SSL + RGPD)  
-- Suport tècnic proper i fiable  
-- Identitat digital local amb domini `.cat`  
+- Suport tècnic proper i fiable   
 
 **Per què aquesta proposta és la millor opció:**  
 Aquesta configuració garanteix un rendiment òptim per a WooCommerce multiusuari, permet créixer sense interrupcions i assegura el compliment de totes les normatives.  
