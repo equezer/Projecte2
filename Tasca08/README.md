@@ -18,3 +18,4 @@
 
 a l'arxiu: [solucio.md](solucio.md) trobaras la solució a la tasca
 
+[torna a la pàgina principal](../README.md)
