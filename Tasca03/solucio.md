@@ -65,5 +65,4 @@
 
 > **Nota:** Assegureu-vos que el fitxer `40_custom` s’ha actualitzat correctament abans de regenerar el GRUB.
 
-
-
+[torna a l'enunciat](README.md)
