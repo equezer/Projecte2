@@ -40,3 +40,6 @@ Quan el client és informat del senzill que és accedir a l’equip, demana si n
 - Referències i fonts consultades (obligatori).
 - El treball s'ha de realitzar sobre el disc clonat / màquina virtual; NO tocar l’equip original del client.
 
+a l'arxiu: [solucio.md](solucio.md) trobaras la solució a la tasca
+
+[torna a la pàgina principal](../README.md)
