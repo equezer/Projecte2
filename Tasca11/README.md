@@ -15,3 +15,5 @@ Aquesta web serà per a fer proves i aprendre a fer servir el WordPress; per ara
 - Mantenir una **instal·lació activa al llarg del curs** que servirà com a base de totes les pràctiques.
 
 Al arxiu: [solució.md](solucio.md) hi ha la solució de la Tasca11
+
+[torna a la pàgina principal](../README.md)
