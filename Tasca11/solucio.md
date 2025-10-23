@@ -79,38 +79,9 @@ Aquesta pàgina **no tindrà contingut**, ja que servirà per mostrar totes les 
 ## 6. Crear una pàgina de contacte
 
 ### Contingut:
-Si vols contactar amb mi per parlar de **sèries**, **tecnologia** o **gats**, pots escriure’m a:  
-*jan.alumne@escola.cat*
 
-Més endavant aprendrem a afegir **formularis de contacte reals**, però de moment n’hi ha prou amb aquest text.
+<img width="1774" height="771" alt="image" src="https://github.com/user-attachments/assets/66969187-a6a6-434c-8f89-f4c0fc38972c" />
 
+[torna a l'enunciat](README.md)
 
-
-## 7. Configuració bàsica del web
-
-Ara que ja tens creades les teves pàgines i entrades, configurarem el comportament principal del teu web.
-
-### Passos:
-
-1. Entra al **tauler de WordPress (wp-admin)**  
-2. Ves a **Configuració → Lectura**  
-3. A l’apartat *“La pàgina d’inici mostra”*, selecciona:  
-   - **Una pàgina estàtica (selecciona a sota)**  
-   - **Pàgina d’inici:** Benvinguts al meu web personal  
-   - **Pàgina de les entrades:** Blog  
-4. Fes clic a **Desa els canvis**
-
-
-
-## 8. Documentació de la tasca
-
-Creeu un fitxer anomenat `T11_wordpress_local.md` dins la carpeta `T11/` del vostre repositori **GitHub** amb la següent informació:
-
-### Contingut del document:
-- **Nom de la web creada:** `web_proves_Jan`  
-- **Captures de pantalla** del procés:
-  - Creació amb WP Local  
-  - Tauler de WordPress  
-  - Pàgina i entrada creades  
-- **Explicació de la diferència entre pàgines i entrades**  
-- **Descripció dels ajustaments configurats**
+[torna a la pàgina principal](../README.md)
